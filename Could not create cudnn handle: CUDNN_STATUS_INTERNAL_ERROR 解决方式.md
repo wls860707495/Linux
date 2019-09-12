@@ -1,4 +1,4 @@
-rom tensorflow.compat.v1 import ConfigProto  
+from tensorflow.compat.v1 import ConfigProto  
 from tensorflow.compat.v1 import InteractiveSession  
 
 config = ConfigProto()  
